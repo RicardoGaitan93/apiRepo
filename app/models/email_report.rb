@@ -1,0 +1,2 @@
+class EmailReport < ApplicationRecord
+end

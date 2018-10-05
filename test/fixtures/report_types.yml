@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ReportTypecode: MyString
+  description: MyString
+  isusernecessary: false
+
+two:
+  ReportTypecode: MyString
+  description: MyString
+  isusernecessary: false

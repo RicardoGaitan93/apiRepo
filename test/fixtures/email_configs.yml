@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  EmailConfigcode: MyString
+  server: MyString
+  port: MyString
+  useremail: MyString
+  passwordemail: MyString
+
+two:
+  EmailConfigcode: MyString
+  server: MyString
+  port: MyString
+  useremail: MyString
+  passwordemail: MyString
